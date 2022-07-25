@@ -1,0 +1,17 @@
+#paragraph{ /*Enlace de estilo por id*/
+    margin-top: 25px;
+    color: chocolate;
+    padding: 10px;
+    background-color: burlywood;
+}
+
+.estilo1{
+    margin: 20px;
+    background-color: #736356;
+    color: rgba(196, 197, 197, 0.867);
+    padding: 25px;
+}
+
+h1{
+    background-color: aqua;
+}
