@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@300&display=swap');
+*{
+    font-family: 'Roboto Condensed', sans-serif;
+    font-size: 15px;
+}
+table{
+    border-collapse: collapse;
+    text-align: center;
+    margin: auto;
+}
+thead tr, th{
+    border: 1px solid rgb(154, 146, 226);
+    background-color: rgb(242, 240, 252);
+    padding: 5px 10px 5px 10px;
+}
+tbody td{
+    border: 1px solid rgb(120, 107, 233);
+    padding: 5px 10px 5px 10px;
+}
+tfoot td{
+    border: 1px solid rgb(120, 107, 233);
+    padding: 5px 10px 5px 10px;
+    background-color: rgb(224, 221, 250);
+}
+caption{
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+#promedio{
+    background-color: rgb(120, 107, 233);
+    color: white;
+}
